@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "lotteName": "networkSpeed",
+        "title": " Save time and effort",
+        "description": " Overwhelmingly greater speed of implementation and response changes, speed in producing results, and speed of operation."
+    },
+    {
+        "id": 2,
+        "lotteName": "servicequality",
+        "title": "Enhance customer experiences",
+        "description": "Humans are freed from routine work, able to engage instead in work with high added value."
+    },
+    {
+        "id": 3,
+        "lotteName": "premiumquality",
+        "title": " Improved Quality",
+        "description": "Capable of more continuous, reliable, and high quality task implementation than human labor."
+    },
+    {
+        "id": 4,
+        "lotteName": "projectdashboard",
+        "title": "Improved Efficiency",
+        "description": " Because a large number of tasks are automated, work can be carried out in parallel with virtually no resource constraints."
+    }
+]
