@@ -10,7 +10,7 @@
     @apply text-center  pt-8 text-rpaBlack-600 text-base lg:text-xl
 }
 .card_what_we_do{
-@apply flex flex-col items-center justify-center rounded-xl py-12 px-8 bg-white w-96 h-[35rem] border border-rpaPurple-500 shadow-lg shadow-rpaPurple-500 transition-all hover:scale-105
+    @apply flex flex-col items-center justify-center rounded-xl py-12 px-8 bg-white w-80 md:w-96 h-[35rem] border border-rpaPurple-500 shadow-lg shadow-rpaPurple-500 transition-all hover:scale-105
 }
 .card_what_we_do_heading{
     @apply text-2xl text-rpaPurple-500 font-bold text-center

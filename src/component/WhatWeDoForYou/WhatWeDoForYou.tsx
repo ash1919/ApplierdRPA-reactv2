@@ -12,7 +12,7 @@ const WhatWeDoForYou = () => {
                 <h2 className="heading_2">What We Do For You</h2>
                 <div className="flex flex-col md:flex-row gap-x-20 flex-wrap gap-y-20 items-center justify-center pt-20">
                     <div className="card_what_we_do">
-                        <div className="w-60">
+                        <div className=" w-40 md:w-60">
                             <Lottie
                                 options={{
                                     loop: true,
@@ -34,7 +34,7 @@ const WhatWeDoForYou = () => {
                         </p>
                     </div>
                     <div className="card_what_we_do">
-                        <div className="w-60">
+                        <div className=" w-40 md:w-60">
                             <Lottie
                                 options={{
                                     loop: true,
@@ -55,7 +55,7 @@ const WhatWeDoForYou = () => {
                         </p>
                     </div>
                     <div className="card_what_we_do">
-                        <div className="w-60">
+                        <div className=" w-40 md:w-60">
                             <Lottie
                                 options={{
                                     loop: true,
@@ -76,7 +76,7 @@ const WhatWeDoForYou = () => {
                         </p>
                     </div>
                     <div className="card_what_we_do">
-                        <div className="w-60">
+                        <div className=" w-40 md:w-60">
                             <Lottie
                                 options={{
                                     loop: true,
