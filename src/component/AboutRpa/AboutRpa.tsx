@@ -22,10 +22,10 @@ const AboutRpa = () => {
                         />
                     </div>
                     <div>
-                        <h2 className="text-4xl lg:text-5xl font-bold text-rpaPurple-500 text-center lg:text-left">
+                        <h2 className="heading_2 lg:text-left">
                             Robotic Process Automation
                         </h2>
-                        <p className="text-center lg:text-left pt-8 text-rpaBlack-600 text-base lg:text-xl">
+                        <p className="paragraph lg:text-left">
                             {' '}
                             Robotic process automation (RPA) is a software
                             technology that makes it easy to build, deploy, and
